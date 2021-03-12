@@ -61,7 +61,7 @@ Si richiede quindi di implementare le seguenti funzionalità:
    Per ogni film ritornare il titolo, i registi, gli attori, l'anno di uscita e il numero di voti. 
    La lista deve essere ordinata mostrando i film in ordine di voto descrescente.
 8. Creare una pagina di dettaglio per il singolo attore. La pagina deve mostrare il nome dell’attore e 
-   la lista dei film in cui ha recitato. Dalla pagina di dettaglio del film (punto 5), per ogni attore della lista,
+   la lista dei film in cui ha recitato. Dalla pagina di dettaglio del film (punto 6), per ogni attore della lista,
    deve essere possibile navigare verso questa pagina di dettaglio. (Se opportuno, procedere alla creazione
    di nuove tabelle sul database prevedendo anche una procedura di migrazione dei dati).
 9. Se un attore è tra i primi 10 o 100 più votati, mostrare rispettivamente un badge `TOP10` o `TOP100`
