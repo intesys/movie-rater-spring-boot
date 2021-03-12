@@ -66,8 +66,7 @@ Si richiede quindi di implementare le seguenti funzionalità:
    di nuove tabelle sul database prevedendo anche una procedura di migrazione dei dati).
 9. Se un attore è tra i primi 10 o 100 più votati, mostrare rispettivamente un badge `TOP10` o `TOP100`
    nella pagina di dettaglio implementata nel punto precedente. I voti del singolo attore si calcolano sommando i voti presi dai film in cui l'attore ha recitato.  
-10. Rendere configurabili da file di property i valori 10 e 100 del punto precedente. 
-    Ad esempio, se i valori configurati sono `5,10,20,100` dovranno essere mostrati i badge `TOP5`, `TOP10`, `TOP20` e `TOP100`.
+
 
 ## Elementi considerati per la valutazione
 
