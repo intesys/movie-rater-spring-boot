@@ -1,0 +1,40 @@
+{{>header}}
+
+<div class="row center-align">
+    <h3>Vote your favourite movie</h3>
+    <h4>We have {{movieCount}} movies in our database!</h4>
+</div>
+<div class="row">
+    <div class="col s6">
+        <div class="card">
+            <div class="card-content">
+                <span class="card-title">{{movie1.title}}</span>
+                <p>{{movie1.director}}</p>
+            </div>
+            <div class="card-action">
+                <form name="movie" action="/vote" method="post">
+                    <input type="hidden" name="id" value="{{movie1.id}}">
+                    <button class="btn waves-effect waves-light" type="submit" name="action">Vote
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div class="col s6">
+        <div class="card darken-1">
+            <div class="card-content">
+                <span class="card-title">{{movie2.title}}</span>
+                <p>{{movie2.director}}</p>
+            </div>
+            <div class="card-action">
+                <form name="movie" action="/vote" method="post">
+                    <input type="hidden" name="id" value="{{movie2.id}}">
+                    <button class="btn waves-effect waves-light" type="submit" name="action">Vote
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{>footer}}
