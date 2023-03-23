@@ -38,10 +38,9 @@ Credenziali di accesso al db.
 
 ## Consegna del codice
 
-Al termine del lavoro, il codice deve essere compresso in un file zip/tar e inviato alla persona di riferimento di Intesys.
-
-Questo file **deve includere la cartella .git** per fare in modo che la commit history sia visibile 
-e quindi rendere più agevole la review del codice. Si prega inoltre di **non includere la cartella target/** nel file di archivio lanciando un `./mvnw clean` prima di creare lo zip/tar.
+Clonare questo repository e committare in locale i task. Al termine della sessione di lavoro consegnare il codice al referente Intesys:
+1. inviando al referente Intesys il progetto in un file .zip contenente la cartella .git
+2. oppure creando un repository privato su github e condividendolo con l'account github del referente Intesys
 
 ## Task
 
