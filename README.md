@@ -38,9 +38,9 @@ Credenziali di accesso al db.
 
 ## Consegna del codice
 
-Clonare questo repository e committare in locale i task. Al termine della sessione di lavoro consegnare il codice al referente Intesys:
-1. inviando al referente Intesys il progetto in un file .zip contenente la cartella .git
-2. oppure creando un repository privato su github e condividendolo con l'account github del referente Intesys
+Clonare questo repository e committare i singoli task. Al termine della sessione di lavoro consegnare il codice al referente Intesys:
+1. inviando al referente Intesys il progetto un link al file .zip contenente la cartella .git (evitare zip via email, vengono rifiutati)
+2. oppure creando un repository privato su github e condividendolo con l'account github del referente
 
 ## Task
 
