@@ -53,10 +53,11 @@ Si richiede quindi di implementare le seguenti funzionalità:
 
 ## Elementi considerati per la valutazione
 
+- correttezza della soluzione
 - numero di task completati
-- pulizia del codice
 - performance
-- ordine e gestione sorgenti
+- pulizia del codice
+- versionamento dei sorgenti
 - tempo di svolgimento
 
 ## Note
