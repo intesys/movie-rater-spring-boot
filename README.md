@@ -7,7 +7,7 @@ il preferito tra i 2. Ogni volta che un utente vota uno dei 2 film l'applicazion
 
 - Progetto Maven
 - Spring Boot
-- JDK 1.8
+- JDK 17
 - Spring MVC
 - HTML templates gestiti via [Mustache Templates](https://mustache.github.io/)
 - [MaterializeCSS](https://materializecss.com/) per il frontend 
@@ -33,7 +33,7 @@ http://localhost:8080/h2-console
 
 Credenziali di accesso al db. 
 - url: `jdbc:h2:file:~/movierater` 
-- username: `sa` 
+- username: lasciare vuoto
 - password: lasciare vuoto
 
 ## Consegna del codice
