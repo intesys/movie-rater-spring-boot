@@ -40,7 +40,7 @@ Credenziali di accesso al db.
 
 Clonare questo repository e committare i singoli task. Al termine della sessione di lavoro consegnare il codice al referente Intesys:
 1. inviando al referente Intesys il progetto un link al file .zip contenente la cartella .git (evitare zip via email, vengono rifiutati)
-2. oppure creando un repository privato su github e condividendolo con l'account github del referente
+2. oppure creando un repository privato su github e condividendolo con l'[account github del referente intesys](https://github.com/orgs/intesys/people)
 
 ## Task
 
