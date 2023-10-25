@@ -57,6 +57,7 @@ Si richiede quindi di implementare le seguenti funzionalità:
 - numero di task completati
 - performance
 - pulizia del codice
+- commit history
 - versionamento dei sorgenti
 - tempo di svolgimento
 
